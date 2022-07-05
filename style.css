@@ -1,0 +1,36 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-size: 18px;
+  color: white;
+}
+
+body {
+  background: #25323a;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  width: 100vw;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+td {
+  padding: 10px 0 10px 0;
+}
